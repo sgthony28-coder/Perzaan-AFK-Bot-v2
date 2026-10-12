@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "garomc.aternos.me",
-    "port": 19132,
+    "port": 45370,
     "version": "1.21.1"
   },
   "position": {
